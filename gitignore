@@ -1,0 +1,33 @@
+# macOS junk
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Icon?
+
+# stuff macOS drops on volumes
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# env / secrets
+.env
+.env.*
+
+# logs
+*.log
